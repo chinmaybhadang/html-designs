@@ -4,7 +4,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p style={{fontSize:'80px'}}>LALA LAND</p>
+        <p className="font-size">LALA CLASS</p>
+        <p id="font-size2">LALA ID</p>
       </header>
     </div>
   );
